@@ -1,0 +1,23 @@
+{
+  "contact": {
+    "firstName": "Priscilla",
+    "lastName": "Santos",
+    "email": "priSantos@test.com",
+    "favoriteColor": "Purple",
+    "birthday": "03/11/1991"
+  },
+  "contact2": {
+    "firstName": "Luis",
+    "lastName": "Calderon",
+    "email": "luisCal@test.com",
+    "favoriteColor": "Black",
+    "birthday": "04/09/1964"
+  },
+  "contact3": {
+    "firstName": "Elsa",
+    "lastName": "Sara",
+    "email": "elsaSara@test.com",
+    "favoriteColor": "Green",
+    "birthday": "25/12/1960"
+  }
+}
